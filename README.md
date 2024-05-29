@@ -40,5 +40,5 @@ Below are the accuracy of the three models on the test set. The accuracy is meas
 <!-- SUMMARY_ACC_PLACEHOLDER_END -->
 
 Note that:
-* Compared with GPT-4, the other two model have better math calculation accuracy, especially for converting pounds to kilograms.
+* Compared with GPT-4, the other two model works better in calculating numbers, especially for unit conversion such as converting pounds to kilograms.
 * However, the other two models have worse performance in filling additional information. For example, if a patient said "偶然多啲，通常都ok。" for sputum, they tends to believe it as "Unclear".
